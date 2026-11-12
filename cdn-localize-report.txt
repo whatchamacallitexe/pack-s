@@ -12,7 +12,6 @@ FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a5648
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE fancypantsadventure3: https://rawcdn.githack.com/bubbls/ugss/0ee58e0c98781c822a21217f33b7f3f74c5ebe32/593275_FPAWorld3.swf -> assets/cdn/cc80ae69-593275_FPAWorld3.swf
 BASE SKIP 160.8MB genizy/fnaf@latest/1
 BASE SKIP 308.3MB genizy/fnaf@latest/ucn
 BASE SKIP 174.6MB genizy/fnaf@latest/2
@@ -34,9 +33,6 @@ BASE MISS bubbls/UGS-Assets@main/goldminer
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/goldminer/game.js: curl: (22) The requested URL returned error: 404
 
 BASE SKIP 216.2MB bubbls/UGS-Assets@354e3c6939a08e472482653567d566ba3a2aa527/half life
-FILE handshakes: https://raw.githubusercontent.com/Stinkalistic/junk/refs/heads/main/handshakes/Build/WebGL.data -> assets/cdn/e9380d0a-WebGL.data
-FILE handshakes: https://raw.githubusercontent.com/Stinkalistic/junk/refs/heads/main/handshakes/Build/WebGL.wasm -> assets/cdn/948892f4-WebGL.wasm
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hanger2: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/SWFs/hanger2.swf -> assets/cdn/2d99a180-hanger2.swf
 BASE SKIP 184.1MB wasm-rip/HellTaker-Web@main/helltakerweb
