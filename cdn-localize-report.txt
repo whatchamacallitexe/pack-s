@@ -36,3 +36,4 @@ BASE SKIP 216.2MB bubbls/UGS-Assets@354e3c6939a08e472482653567d566ba3a2aa527/hal
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
 BASE SKIP 184.1MB wasm-rip/HellTaker-Web@main/helltakerweb
+RUFFLE FAIL module 'urllib' has no attribute 'request'
