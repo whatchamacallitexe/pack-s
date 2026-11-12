@@ -50,7 +50,7 @@
 					box-shadow: 0px 0px 10px 2px #000000;
 				}
 			</style>
-			<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap" rel="stylesheet">
+			<link href="assets/cdn/b3879e55-fonts-b3879e5526.css" rel="stylesheet">
 			<style type="text/css">
 				#button {
 					display: none;
@@ -94,14 +94,14 @@
                 EJS_core = "gb";
                 EJS_color = "#00000";
                 EJS_startOnLoaded = true;
-                EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@master/";
-                EJS_gameUrl = "https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/gloryhunters.gb";
+                EJS_pathtodata = "../_shared/emu/";
+                EJS_gameUrl = "assets/cdn/97d64600-gloryhunters.gb";
                 loadGame();
             }
             document.getElementById("startButton").addEventListener("click", startGame);
             function loadGame() {
                 var script = document.createElement("script");
-                script.src = "https://cdn.jsdelivr.net/gh/bubblfan/emu@master/loader.js";
+                script.src = "../_shared/emu/loader.js";
                 document.body.appendChild(script);
             }
 			</script>

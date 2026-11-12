@@ -1,0 +1,170 @@
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE factoryballs: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE factoryballs: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@cd9be47be124235eed88551970175458d7b34318/factoryballs.swf -> assets/cdn/eb9e58f6-factoryballs.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE factoryballs2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE factoryballs2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@cd9be47be124235eed88551970175458d7b34318/factoryballs2.swf -> assets/cdn/14f4f77e-factoryballs2.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE factoryballs3: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE factoryballs3: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@cd9be47be124235eed88551970175458d7b34318/factoryballs3.swf -> assets/cdn/56850478-factoryballs3.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE factoryballs4: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE factoryballs4: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@cd9be47be124235eed88551970175458d7b34318/factoryballs4.swf -> assets/cdn/d654316e-factoryballs4.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE fancypantsadventure: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE fancypantsadventure: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/fancypantsadventure.swf -> ../_shared/c42c39d42428-fancypantsadventure.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE fancypantsadventure2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE fancypantsadventure2: https://cdn.jsdelivr.net/gh/UniverseExploits/flash-games@8a30ea684498b868a7b1cd188bd860ba2042eb56/Fancy-Pants-Adventure-2.swf -> ../_shared/e5798bd36984-Fancy-Pants-Adventure-2.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE fancypantsadventure3: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+BASE OK bubbls/youtube-playables@main/fashion-battle -> fashion-battle
+BASE REWRITE fashion-battle
+FILE fashion-battle: https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js -> assets/cdn/20058cc1-ytgame.js
+FILE final-earth-2: https://cdn.jsdelivr.net/gh/bubbls/ruffle@832ceffa1c2b25969e4e77f8bce0a3aad6d23671/nonsoundpixi.js -> assets/cdn/8fb26988-nonsoundpixi.js
+FILE final-earth-2: https://cdn.jsdelivr.net/gh/bubbls/ruffle@832ceffa1c2b25969e4e77f8bce0a3aad6d23671/pixi.js -> assets/cdn/aae7e967-pixi.js
+FILE final-earth-2: https://cdn.jsdelivr.net/gh/bubbls/ruffle@832ceffa1c2b25969e4e77f8bce0a3aad6d23671/gamejs.js -> assets/cdn/b8d51288-gamejs.js
+FILE final-earth-2: https://cdn.jsdelivr.net/gh/bubbls/ruffle@832ceffa1c2b25969e4e77f8bce0a3aad6d23671/load.js -> assets/cdn/98e1d7db-load.js
+FILE final-earth-2: https://cdn.jsdelivr.net/gh/bubbls/ruffle@832ceffa1c2b25969e4e77f8bce0a3aad6d23671/finalpreload.js -> assets/cdn/943a0e10-finalpreload.js
+FILE fireblob: https://cdn.jsdelivr.net/gh/bubbls/ruffle@210e423a3cdfceb2fc78674cc4fb810a5df8f466/jquerymin.js -> assets/cdn/0730bf96-jquerymin.js
+FILE fireboy-and-watergirl-2: https://cdn.jsdelivr.net/gh/AlgebraHelper/AlgebraHelper@8e5a5b1d2b14aaf641c716af947c57609f52cf55/games/html5/fireboy-and-watergirl-2/play/assets/styles/main.css -> assets/cdn/28aa8d3a-main.css
+FILE fireboy-and-watergirl-2: https://cdn.jsdelivr.net/gh/AlgebraHelper/AlgebraHelper@8e5a5b1d2b14aaf641c716af947c57609f52cf55/games/html5/fireboy-and-watergirl-2/play/bower_components/requirejs/require.js -> assets/cdn/3239c469-require.js
+FILE fireboy-and-watergirl-2: https://cdn.jsdelivr.net/gh/bobydob/godotpack@137b954a7a2d8e0a28efe82a778000c02bcc1481/side/faw2/faw2.min.js?v= -> assets/cdn/63b3d295-faw2.min.js
+FILE fireboy-and-watergirl-3: https://cdn.jsdelivr.net/gh/Edward358-AI/HTML5-games@3c35856e44aea5d93ebe781cb1af84570dd8512c/html5/fireboy-and-watergirl-3/play/bower_components/requirejs/require.js -> assets/cdn/bb660502-require.js
+FILE fireboy-and-watergirl-3: https://cdn.jsdelivr.net/gh/Edward358-AI/HTML5-games@3c35856e44aea5d93ebe781cb1af84570dd8512c/html5/fireboy-and-watergirl-3/play/version.js -> assets/cdn/adc82b42-version.js
+FILE fireboy-and-watergirl-3: https://cdn.jsdelivr.net/gh/bobydob/godotpack@eee6707129e6b8de0315fa9a296cec67aa16f6d8/side/faw3/faw3.min.js?v= -> assets/cdn/7d689776-faw3.min.js
+BASE OK bubbls/UGS-Assets@01b8c258e32fffc40924d0746ce810ea14ea91c6/fisquarium -> fisquarium
+BASE REWRITE fisquarium
+FILE fluidism: https://cdn.jsdelivr.net/gh/selenite-cc/selenite-old@9c743188888af0986c8c7b293dbac8f9e421a4ee/fluidsim/dat.gui.min.js -> assets/cdn/55e3755e-dat.gui.min.js
+FILE fluidism: https://cdn.jsdelivr.net/gh/selenite-cc/selenite-old@9c743188888af0986c8c7b293dbac8f9e421a4ee/fluidsim/script.js -> assets/cdn/8e253bee-script.js
+BASE SKIP 160.8MB genizy/fnaf@latest/1
+FILE fnaf: https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js -> ../_shared/05353f8b6b3f-jszip.min.js
+BASE SKIP 308.3MB genizy/fnaf@latest/ucn
+FILE fnaf-ucn: https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js -> ../_shared/05353f8b6b3f-jszip.min.js
+BASE SKIP 174.6MB genizy/fnaf@latest/2
+FILE fnaf2: https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js -> ../_shared/05353f8b6b3f-jszip.min.js
+BASE SKIP 183.1MB genizy/fnaf@latest/3
+FILE fnaf3: https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js -> ../_shared/05353f8b6b3f-jszip.min.js
+BASE SKIP 341.6MB genizy/fnaf@latest/4
+FILE fnaf4: https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js -> ../_shared/05353f8b6b3f-jszip.min.js
+BASE OK bubbls/UGS-Assets@main/gdlite -> gdlite
+BASE REWRITE gdlite
+FAILED https://cdn.jsdelivr.net/gh/Ryguy1375/RyGuy1375.github.io@main/style.css: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/RyGuy1375/RyGuy1375.github.io@main/Images/Logo.gif: curl: (22) The requested URL returned error: 404
+
+FILE geometryvibes: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/UNITY/geometryvibes/main_min.js -> assets/cdn/9c53a048-main_min.js
+FILE geometryvibes: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/UNITY/geometryvibes/TemplateData/Orientation/orientation.png -> assets/cdn/7de856cb-orientation.png
+FILE geometryvibes: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/UNITY/geometryvibes/TemplateData/logo.png -> assets/cdn/3bb824ef-logo.png
+FILE geometryvibes: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/UNITY/geometryvibes/Build/GeometryVibes_GD_V6.loader.js -> assets/cdn/4666c0c7-GeometryVibes_GD_V6.loader.js
+FILE geometryvibes: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/UNITY/geometryvibes/TemplateData/Orientation/template.json -> assets/cdn/9ebed9ad-template.json
+BASE OK bubbls/UGS-Assets@main/georgeandprinter -> georgeandtheprinter
+BASE REWRITE georgeandtheprinter
+BASE OK galaxyking16/d@main/gs -> getawayshootout
+BASE REWRITE getawayshootout
+FILE getontop: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/style.css -> assets/cdn/27f72171-style.css
+FILE getontop: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/box2d.wasm.js -> assets/cdn/35bcd3fd-box2d.wasm.js
+FILE getontop: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/scripts/supportcheck.js -> assets/cdn/72dd42a6-supportcheck.js
+FILE getontop: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/scripts/offlineclient.js -> assets/cdn/b9548b4f-offlineclient.js
+FILE getontop: https://cdn.jsdelivr.net/gh/bobydob/godotpack@e46121e50d1e80597ca6d88776418185ceb449a2/side/got/main.js -> assets/cdn/a777c586-main.js
+FAILED https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/scripts/register-sw.js: curl: (22) The requested URL returned error: 404
+
+BASE OK eazy-man/shHH@main/gettingoverit -> gettingoverit
+BASE REWRITE gettingoverit
+BASE OK bubbls/UGS-Assets@main/get yoked -> getyoked
+BASE REWRITE getyoked
+BASE MISS bubbls/UGS-Assets@main/gimmietheairpod
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/gimmietheairpod/main.js: curl: (22) The requested URL returned error: 404
+
+BASE MISS bubbls/UGS-Assets@main/gladdihoppers
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/gladdihoppers/main.js: curl: (22) The requested URL returned error: 404
+
+BASE OK Stinkalistic/UGS@main/MISC/glfighters -> glfighters
+BASE REWRITE glfighters
+EMU OK bubblfan/emu@master cores=gambatte
+FILE gloryhunters: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> assets/cdn/b3879e55-fonts-b3879e5526.css
+FILE gloryhunters: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/gloryhunters.gb -> assets/cdn/97d64600-gloryhunters.gb
+BASE OK bubbls/UGS-Assets@main/going balls -> goingballs
+BASE REWRITE goingballs
+FILE golddiggerfrvr: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/golddiggerfrvr/v/1576154523809/external.js -> assets/cdn/8683952c-external.js
+BASE MISS bubbls/UGS-Assets@main/goldminer
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/goldminer/game.js: curl: (22) The requested URL returned error: 404
+
+BASE OK bubbls/UGS-Assets@main/golf-battle -> golfbattle
+BASE REWRITE golfbattle
+BASE SKIP 216.2MB bubbls/UGS-Assets@354e3c6939a08e472482653567d566ba3a2aa527/half life
+FILE handshakes: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/handshakes/Build/WebGL.loader.js -> assets/cdn/03e6b5cd-WebGL.loader.js
+FILE handshakes: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/handshakes/Build/WebGL.framework.js -> ../_shared/5c9d4ab9885e-WebGL.framework.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE hanger2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/SWFs/hanger2.swf: curl: (22) The requested URL returned error: 403
+
+BASE OK bubbls/UGS-Assets@main/happy room -> happyroom
+BASE REWRITE happyroom
+BASE OK bubbls/UGS-Assets@8d3c8217ec14be44027d6fced6f837cc7ffa1249/hardware tycoon -> hardwaretycoon
+BASE REWRITE hardwaretycoon
+FILE haroldsbadday: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@8579de91e93c3e9910b72e91b5901a40ad531e3d/pico%208%20games/harold.js -> assets/cdn/8caaf8a8-harold.js
+BASE OK bubbls/UGS-Assets@main/haunted-school -> hauntedschool
+BASE REWRITE hauntedschool
+BASE OK Stinkalistic/UGS@main/UNITY/hei$t -> hei$t
+BASE REWRITE hei$t
+FILE helixjump: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> assets/cdn/5c9e4317-style.css
+FILE helixjump: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/UnityProgress.js -> assets/cdn/fac31396-UnityProgress.js
+FILE helixjump: https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@6801bd97f311bef640fafcedd8783d426423bd67/Code/Python/HelixJump.js -> assets/cdn/afec8bbc-HelixJump.js
+FILE helixjump: https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@6801bd97f311bef640fafcedd8783d426423bd67/Code/Python/HelixJump.json -> assets/cdn/f68766bc-HelixJump.json
+BASE SKIP 184.1MB wasm-rip/HellTaker-Web@main/helltakerweb
+FILE helltaker: https://cdn.jsdelivr.net/gh/wasm-rip/HellTaker-Web@main/helltakerweb/TemplateData/favicon.ico -> assets/cdn/6cceb3df-favicon.ico
+FILE helltaker: https://cdn.jsdelivr.net/gh/wasm-rip/HellTaker-Web@main/helltakerweb/TemplateData/style.css -> assets/cdn/f125a66c-style.css
+BASE OK Stinkalistic/SWAGgames@main/helpnobrakes! -> helpnobrakes
+BASE REWRITE helpnobrakes
+BASE OK faralong/all@main/hero3 -> hero3flyingrobot
+BASE REWRITE hero3flyingrobot
+FILE hextris: http://fonts.googleapis.com/css?family=Exo+2 -> assets/cdn/40018c48-fonts-40018c481f.css
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/style/fa/css/font-awesome.min.css -> assets/cdn/76088e3b-font-awesome.min.css
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/style/style.css -> assets/cdn/3ce82990-style.css
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/hammer.min.js -> assets/cdn/070d48c2-hammer.min.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/js.cookie.js -> assets/cdn/42161dd3-js.cookie.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/jsonfn.min.js -> assets/cdn/9c07a443-jsonfn.min.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/jquery.js -> assets/cdn/1b53f9ca-jquery.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/save-state.js -> assets/cdn/42112321-save-state.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/view.js -> assets/cdn/beafbe86-view.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/wavegen.js -> assets/cdn/756d24e2-wavegen.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/math.js -> assets/cdn/dc229f4c-math.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/Block.js -> assets/cdn/65baa4f6-Block.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/Hex.js -> assets/cdn/0c6a4c95-Hex.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/Text.js -> assets/cdn/21789560-Text.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/comboTimer.js -> assets/cdn/1f725343-comboTimer.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/checking.js -> assets/cdn/fa9b7ee6-checking.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/update.js -> assets/cdn/25b6f1a9-update.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/render.js -> assets/cdn/dd4b975a-render.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/input.js -> assets/cdn/0305e3c3-input.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/main.js -> assets/cdn/98a61f44-main.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/initialization.js -> assets/cdn/af195660-initialization.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/sweet-alert.min.js -> assets/cdn/24d2bcfb-sweet-alert.min.js
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/style/rrssb.css -> assets/cdn/39388d15-rrssb.css
+FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/rrssb.min.js -> assets/cdn/0c323dab-rrssb.min.js
+BASE OK bubbls/UGS-Assets@894fe3e7ab8b4c0c7345174b75bf8241d001a1f2/ice-fishing -> icefishing
+BASE REWRITE icefishing
+BASE OK bubbls/UGS-Assets@bac2e6521a5833190712906cc2dc2bf7d9193672/icy purple head -> icypurplehead
+BASE REWRITE icypurplehead
+BASE OK Luts91/Luts91.github.io@master/idle-dices -> idledice
+BASE REWRITE idledice
+BASE OK bubbls/UGS-Assets@main/idle-football-manager -> idlefootballmanager
+BASE REWRITE idlefootballmanager
+BASE OK bubbls/UGS-Assets@502d9929c38769d4f92f8199334b596486b038f7/idle idle game dev -> idleidlegamedev
+BASE REWRITE idleidlegamedev
+FILE idleminertycoon: https://cdn.jsdelivr.net/gh/bubbls/ruffle@71c149b76c77807157b3cd19d2302ff8feb53593/idlemin.js -> assets/cdn/40249075-idlemin.js
+FILE idleminertycoon: https://cdn.jsdelivr.net/gh/bubbls/ruffle@71c149b76c77807157b3cd19d2302ff8feb53593/c2.js -> assets/cdn/581c0547-c2.js
+BASE OK bubblfan/google-class@HEAD/nova-craft -> infinitecraft
+BASE REWRITE infinitecraft
+FILE inkgame: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/ink-game/style.css -> assets/cdn/04f4388f-style.css
+BASE OK bubbls/UGS-Assets@main/Insomniary -> insomniary
+BASE REWRITE insomniary
